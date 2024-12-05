@@ -1,4 +1,4 @@
-## [Day two: 🖼️ Framing names](https://adventjs.dev/es/challenges/2024/2)
+## [Day two: 🖼️ Framing names](https://adventjs.dev/en/challenges/2024/2)
 
 __Santa Claus__ 🎅 wants to frame the names of the good children to decorate his workshop 🖼️, but the frame must follow specific rules. Your task is to help the elves generate this magical frame.
 

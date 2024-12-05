@@ -9,7 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "tsc": "^2.0.4",
     "typescript": "^5.7.2"
   },
   "devDependencies": {
